@@ -7,5 +7,5 @@ Por ello, os ofrecemos una serie de alias con las que podréis trabajar desde vu
 clona este directorio en la raíz de tu sistema y añade esta línea en tu fichero de configuración, ya sea `.zshrc`, `.bashrc`, etc
 
 ```
-source ./terminal-linux-oregones/alias.sh
+source ./terminal-linux-oregones/aliases.sh
 ```
